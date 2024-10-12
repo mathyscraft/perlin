@@ -6,6 +6,7 @@ Génère les biomes suivant :
 - Mer
 - Plage
 - Plaine
+- Forêt
 - Montagne
 - Glacier
   
